@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Rodrigo Arias
 
-🔭 I am currently employed at Quálitas México, in the Strategic Planning department, where I serve as a software project developer and coordinator.
-🌱 I am currently preparing myself as a Web Frontend developer.
+- 🔭 I am currently employed at Quálitas México, in the Strategic Planning department, where I serve as a software project developer and coordinator.
+- 🌱 I am currently preparing myself as a Web Frontend developer.
 
 <!--
 **rodrigoariash/rodrigoariash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
